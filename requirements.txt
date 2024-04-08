@@ -1,0 +1,16 @@
+ipython
+jupyter
+matplotlib==3.3.3
+notebook
+numpy==1.19.3
+opencv-python-headless
+pandas==1.1.5
+pyqt5
+pytest
+awscli
+chardet
+click
+flake8
+python-dotenv
+pyyaml
+sphinx

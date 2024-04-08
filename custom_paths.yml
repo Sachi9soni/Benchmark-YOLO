@@ -1,0 +1,4 @@
+model_path: "path/v8_x_1120_50.engine" #change accordingly 
+image_directory: "path_to_images/images" #change accordingly 
+output_directory: "path_to_output_/directory2" #change accordingly 
+imgsz: 1120  #change accordingly 
